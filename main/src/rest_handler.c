@@ -35,7 +35,7 @@
 // Using in the task strcat(url_string,TOKEN)); the main direct from the url will be in url_string
 //The chat id that will receive the message
 #define chat_ID1 "@GROUP_NAME"
-#define chat_ID2 "12345678"
+#define chat_ID2 "-12345678"
 
 /* TAGs for the system*/
 static const char *TAG = "HTTP_CLIENT Handler";
